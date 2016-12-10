@@ -9,7 +9,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/.bin/hexo server",
+    "new": "./node_modules/.bin/hexo new",
+    "deploy": "./node_modules/.bin/generate -deploy"
   },
   "keywords": [],
   "author": "",

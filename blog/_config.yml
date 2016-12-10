@@ -65,6 +65,7 @@ pagination_dir: page
 plugins:
   - hexo-footnotes
   - hexo-server
+  - hexo-deployer-git
 
 ## Themes: https://hexo.io/themes/
 theme: landscape
