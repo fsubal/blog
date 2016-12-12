@@ -79,7 +79,7 @@ NEW GAME! の Blu-ray vol 3.には八神コウと遠山りんのデュエット�
 ### 宣伝
 - [しずコウりん本『We Don't Like Romance』](https://umbrellahead.booth.pm/items/319180)
     - [PDF版](https://umbrellahead.booth.pm/items/388191)
-- [しずクリ📚『Hurts Like Heaven』](https://umbrellahead.booth.pm/items/388239)
+- [しずクリ本『Hurts Like Heaven』](https://umbrellahead.booth.pm/items/388239)
 
 BOOTHにて発売中です。
 
